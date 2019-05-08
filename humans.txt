@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rubén Ramos ruben@indra.com
 
 # THANKS
 
