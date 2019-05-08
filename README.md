@@ -18,6 +18,7 @@ Desarrollando
 
 ## How to contribute
 
+Ingresa dinero tacaño
 
 ###Copyright
 1993 Git.RUBINHO
