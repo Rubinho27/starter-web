@@ -17,3 +17,7 @@ Desarrollando
 ## Purpose
 
 ## How to contribute
+
+
+###Copyright
+1993 Git.RUBINHO
